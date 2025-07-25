@@ -1,0 +1,20 @@
+{
+	"geode": "4.6.3",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "oki3ed.pauserestored",
+	"name": "PauseRestored",
+	"version": "v1.0.0",
+	"developer": "oki3ed",
+	"description": "Automatically pauses the level when the game window loses focus.",
+	"tags": [
+		"gameplay",
+		"enhancement",
+		"offline"
+	],
+	"links": {
+		"source": "https://github.com/oki333ed/PauseRestored",
+		"homepage": "https://oki333ed.rf.gd"
+	}
+}
